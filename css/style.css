@@ -1,0 +1,60 @@
+
+body{
+	font-family: 'Titillium Web', sans-serif;
+	padding:0px; margin:0px; background-color:#fff;helvetica,sans-serif,verdana;
+	background-color: #708090;
+}
+
+nav{
+	background-color: #333333 !important;
+}
+
+.slide{width:100%;height:100%;}
+
+.jumbo{
+	background-image: url(../img/banner.jpg) !important;
+	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover;
+  	height:36rem;
+  	width: 100%;
+  	}
+
+ .tech{
+ 	background-image: url(../img/technology.jpg);
+ 	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover;
+  	height:auto;
+  	width: 100%;
+
+
+ }
+
+
+.Services{
+
+	background-image: url(../img/services.jpg);
+ 	background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  height:auto;
+  
+  width: 100%;
+
+}
+
+span .toggler{
+  font-color:red !important;
+}
+
+.container-fluid {
+  padding-right:0px;
+  padding-left:0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.shring{
+  margin-bottom:-10rem !important;
+}
